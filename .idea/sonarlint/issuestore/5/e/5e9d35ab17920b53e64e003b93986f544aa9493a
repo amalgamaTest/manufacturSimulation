@@ -1,0 +1,17 @@
+
+V	java:S899/":Do something with the "boolean" value returned by "offer".(’·Ò³8ôşÜıÈ2
+{
+java:S2142W"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ôÔöşÈ2
+L	java:S106B"+Replace this use of System.out by a logger.(Æ‹Äóıÿÿÿÿ8‘ÀèşÈ2
+G	java:S106V"+Replace this use of System.out by a logger.(ã¾Ù¬8“ÀèşÈ2
+M	java:S106Š"+Replace this use of System.out by a logger.(ŞƒÈËşÿÿÿÿ8€ÕöşÈ2
+H	java:S106Œ"+Replace this use of System.out by a logger.(Şºİ¹8ÕöşÈ2
+W	java:S899¦":Do something with the "boolean" value returned by "offer".(§ŠÙ”8‚ÿÜıÈ2
+U
+java:S1128"9Remove this unused import 'org.production.io.CsvWritter'.(ñÉø?8 ÀèşÈ2
+m
+java:S1128"KRemove this unused import 'org.production.service.util.AtomicIntegerUtils'.(àÛàäÿÿÿÿÿ8¡ÀèşÈ2
+h
+java:S1128"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ8¡ÀèşÈ2
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¡ÀèşÈ2

@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(öõ¬ûÿÿÿÿ8å§Õ–É2
+b	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(ëÆºÚ8æ§Õ–É2
+g	java:S112;"FDefine and throw a dedicated exception instead of using a generic one.(éª¶ùÿÿÿÿ8ç§Õ–É2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Íª£Úÿÿÿÿÿ8Û»Õ–É2
+x
+java:S2445i"V"productionCenters" is a method parameter, and should not be used for synchronization.(îğëşûÿÿÿÿ8ô»Õ–É2
+u
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(‡¸•Íûÿÿÿÿ8ç³Ü–É2
+h
+java:S1128	"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ8¼Õ–É2
